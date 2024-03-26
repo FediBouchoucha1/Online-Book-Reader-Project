@@ -3,13 +3,13 @@
 ### Users
 - There are two types of users in the system:
   - Admin User
-  - Customer User
+  - Normal User
 
 #### Admin User
 - The Admin User is responsible for adding books to the system.
 
-#### Customer User
-- The Customer User can:
+#### Normal User
+- The Normal User can:
   - Login or sign up to the system.
   - Read one book at a time.
   - Access a history of their reading sessions.
